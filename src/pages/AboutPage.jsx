@@ -5,8 +5,9 @@ function AboutPage() {
         <div className="wrap">
           <h1>Acerca de nosotros</h1>
           <p>
-            Dermatology care focused on prevention, diagnosis, treatment and
-            confidence in every stage of your skin and hair health journey.
+            En DermaQ, creemos que la salud de tu piel es la base de tu
+            confianza y bienestar. Nuestra clínica dermatológica de alta
+            especialidad se dedica a ofrecer cuidados personalizados.
           </p>
         </div>
       </div>
